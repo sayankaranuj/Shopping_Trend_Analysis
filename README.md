@@ -35,6 +35,6 @@ Anuj Sayankar
 Email: anujsayankar@gmail.com
 
 ## Acknowledgements
-Jay Rathod for guidance and support.
+P Raja for guidance and support.
 TechSaksham, Microsoft, and SAP for providing this learning opportunity.
 Open-source communities for tutorials and solutions.
